@@ -1,2 +1,2 @@
 # NLP-Text-Summarization
-Produced a summary for the definition of "Machine learning" from Wikipedia using NLP techniques in Python.
+Produced a summary for the definition of "Machine Learning" from Wikipedia using NLP techniques in Python.
